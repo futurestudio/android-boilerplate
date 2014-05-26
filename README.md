@@ -1,5 +1,4 @@
 android-boilerplate
 ===================
 
-* will be added soon*
- 
+** will be added soon **
