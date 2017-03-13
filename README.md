@@ -1,6 +1,5 @@
 # android-boilerplate
 
-** will be added soon **
 
 ## How to Get It up and Running
 
@@ -10,8 +9,6 @@
 - build and run the app :-)
 
 ## App Dependencies
-
-** will be added soon **
 
 
 ## Contributions
